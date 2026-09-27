@@ -1,0 +1,16 @@
+# No individual-level data or derived outputs may be committed
+*.dta
+*.sav
+*.csv
+*.xlsx
+*.log
+*.smcl
+*.gph
+*.pdf
+*.png
+*.docx
+Temp/
+figures/
+.Rhistory
+.RData
+__pycache__/

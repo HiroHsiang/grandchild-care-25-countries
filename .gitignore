@@ -1,0 +1,20 @@
+# No individual-level data or derived outputs may be committed
+*.dta
+*.sav
+*.csv
+!country_variables.csv
+*.xlsx
+*.log
+*.smcl
+*.gph
+*.pdf
+*.png
+*.docx
+results/
+figures/
+Temp/
+.Rhistory
+.RData
+__pycache__/
+._*
+.DS_Store

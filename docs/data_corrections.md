@@ -38,7 +38,7 @@ The SHARE data were not affected: the complete-case results for the 20 SHARE cou
 Estimates that changed in substance:
 
 - South Korea, memory: −0.063 (−0.153 to 0.027) became −0.091 (−0.170 to −0.011), after the wave-5 memory scores were added.
-- Self-rated health, difference between women and men: p = 0.20 became p = 0.050.
+- Self-rated health, difference between women and men: p = 0.20 became p = 0.049.
 - Self-rated health, joint test of the three country variables: p = 0.030 (R² 54%) became p = 0.080 (R² 20%); the childcare coefficient was unchanged (0.010, 0.002 to 0.017).
 - Study-level placebo estimates: three rather than four of 28 are significant.
 
